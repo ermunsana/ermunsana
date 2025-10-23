@@ -2,7 +2,7 @@
 
 <h3> I'm Ermun.</h2>
 
-<h4>I’m interested in Python for data analysis, automation, and machine learning applications.</h3>
+<h4>I’m interested in Python for data analysis, automation, and backend web</h3>
 
 #
 
