@@ -8,7 +8,7 @@
 
 <h3> Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,flask,docker,git,bash,aws,linux,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,flask,docker,git,bash,aws,linux,mysql)](https://skillicons.dev)
 
 
 <h3> My Projects:</h3>
